@@ -1,71 +1,124 @@
-"Ban"
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
 {
-	"users"
-	{
-		"[U:1:968769164]"
+	users = 
+	[
 		{
-			"flags"		"3"
-			"steamid"		"0x0110000139BE3E8C"
-		}
-		"[U:1:79502704]"
+			flags = 3
+			steamid = 76561199010440052
+		},
 		{
-			"flags"		"3"
-			"steamid"		"0x0110000104BD1D70"
-		}
-		"[U:1:1120953486]"
+			flags = 3
+			steamid = 76561199759233297
+		},
 		{
-			"flags"		"3"
-			"steamid"		"0x0110000142D0648E"
-		}
-		"[U:1:1603762205]"
+			flags = 3
+			steamid = 76561199201858836
+		},
 		{
-			"flags"		"3"
-			"steamid"		"0x011000015F97781D"
-		}
-		"[U:1:410654223]"
+			flags = 3
+			steamid = 76561198845526452
+		},
 		{
-			"flags"		"3"
-			"steamid"		"0x01100001187A160F"
-		}
-		"[U:1:1210647366]"
+			flags = 3
+			steamid = 76561199259537264
+		},
 		{
-			"flags"		"3"
-			"steamid"		"0x0110000148290346"
-		}
-		"[U:1:1267466596]"
+			flags = 3
+			steamid = 76561199190945921
+		},
 		{
-			"flags"		"3"
-			"steamid"		"0x011000014B8C0164"
-		}
-		"[U:1:886721787]"
+			flags = 3
+			steamid = 76561199148298427
+		},
 		{
-			"flags"		"3"
-			"steamid"		"0x0110000134DA4CFB"
-		}
-		"[U:1:384079886]"
+			flags = 3
+			steamid = 76561199546418961
+		},
 		{
-			"flags"		"3"
-			"steamid"		"0x0110000116E4980E"
-		}
-		"[U:1:1401368921]"
+			flags = 3
+			steamid = 76561199467182752
+		},
 		{
-			"flags"		"3"
-			"steamid"		"0x0110000153873159"
-		}
-		"[U:1:1015949799]"
+			flags = 3
+			steamid = 76561199770856880
+		},
 		{
-			"flags"		"3"
-			"steamid"		"0x011000013C8E29E7"
-		}
-		"[U:1:1075421368]"
+			flags = 3
+			steamid = 76561199699483024
+		},
 		{
-			"flags"		"3"
-			"steamid"		"0x011000014019A0B8"
-		}
-		"[U:1:432258347]"
+			flags = 3
+			steamid = 76561199238582116
+		},
 		{
-			"flags"		"3"
-			"steamid"		"0x0110000119C3BD2B"
-		}
-	}
+			flags = 3
+			steamid = 76561199190479899
+		},
+		{
+			flags = 3
+			steamid = 76561198811901876
+		},
+		{
+			flags = 3
+			steamid = 76561199185027610
+		},
+		{
+			flags = 3
+			steamid = 76561199384788909
+		},
+		{
+			flags = 3
+			steamid = 76561199169015932
+		},
+		{
+			flags = 3
+			steamid = 76561199530963253
+		},
+		{
+			flags = 3
+			steamid = 76561199507673553
+		},
+		{
+			flags = 3
+			steamid = 76561199661120281
+		},
+		{
+			flags = 3
+			steamid = 76561199494356342
+		},
+		{
+			flags = 3
+			steamid = 76561198861923123
+		},
+		{
+			flags = 3
+			steamid = 76561199488094813
+		},
+		{
+			flags = 3
+			steamid = 76561199394993673
+		},
+		{
+			flags = 3
+			steamid = 76561198817093298
+		},
+		{
+			flags = 3
+			steamid = 76561198816676021
+		},
+		{
+			flags = 3
+			steamid = 76561199181277096
+		},
+		{
+			flags = 3
+			steamid = 76561199512444340
+		},
+		{
+			flags = 3
+			steamid = 76561199446608741
+		},
+	]
+	player_volume_map = null
+	access_history = null
 }
